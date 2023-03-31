@@ -8,6 +8,14 @@
 $txt = "PHP";
 echo "I love $txt";
 // This is a comment in PHP
+
+# This is also a single-line comment
+
+/*
+This is a multiple-lines comment block
+that spans over multiple
+lines
+*/
 ?>
 
 <?php
